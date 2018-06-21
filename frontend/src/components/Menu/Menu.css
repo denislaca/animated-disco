@@ -1,0 +1,23 @@
+.is-menu {
+  padding: 0 !important;
+}
+
+.is-menu .item {
+    padding: 0 !important;
+}
+
+.is-menu .header,
+.is-menu .item a{
+    color: white !important;
+    padding: 1rem !important;
+    font-size: 1.3rem !important;
+}
+
+.is-menu .header {
+    background-color:  #767676 !important; /*#2185d0*/
+}
+
+.is-menu .item a strong {
+    position: relative;
+    top: 3px;
+}

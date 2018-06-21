@@ -1,0 +1,26 @@
+.tile {
+  display: block;
+  position: relative;
+  max-width: 30%;
+  min-width: 250px;
+  margin: 15px auto -5px!important;
+}
+
+.dashboardStructure {
+  display: inline-flex;
+}
+
+.dashboard {
+  max-height: 60%!important;
+  min-height: 600px;
+}
+
+.dashboardButtons {
+  max-width: 35%;
+  display: flex;
+  justify-content: center;
+}
+
+.dashboardNaming{
+  padding-top: 20px!important;
+}

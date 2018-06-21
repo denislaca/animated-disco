@@ -1,0 +1,10 @@
+.punishmentAdd {
+    display: grid !important;
+    grid-template-columns: 300px 1fr;
+    grid-column-gap: 25px;
+}
+
+.prisoner-step .steps {
+    position: sticky;
+    top: 20px;
+}
